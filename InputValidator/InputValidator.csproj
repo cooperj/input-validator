@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Josh C</Authors>
+    <Copyright>MIT</Copyright>
+    <RepositoryUrl>https://github.com/cooperj/input-validator</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/cooperj/input-validator</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>uk.joshc.InputValidator</PackageId>
+    <PackageTags>valid, input, cooperj, inputvalidator, joshc</PackageTags>
   </PropertyGroup>
 
 </Project>
